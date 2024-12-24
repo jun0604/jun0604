@@ -32,7 +32,7 @@ Currently, I`m interested in developing artificial intelligence that uses AI to 
 - 2015 선문대학교 컴퓨터공학과 학생회 부원
 - 2015 축구동아리 OMGEA 부원
 - 2015 봉사동아리 선문대학YMCA 복지부장
-- 2016 KBUG(Korea Bluej Users Group) 부원 
+- 2016 학술동아리 KBUG(Korea Bluej Users Group) 부원 
 - 2018 광고기획동아리 AD RED 부원
 - 2019 축구동아리 SCOOP 부회장
 - 2019 봉사동아리 선문대학YMCA 회장
