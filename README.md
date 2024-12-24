@@ -60,7 +60,8 @@ Currently, I`m interested in developing artificial intelligence that uses AI to 
 ### 📃 Paper
 --------------------------------------------------------------------------------------------------------------------
 ### 📜 Certificates
-- [Signature 딥러닝·인공지능](https://fastcampus.co.kr/data_online_signature) @ Fastcampus
+- 빅데이터 분석을 활용한 데이터 마케팅 전문가 양성과정 @High media academy
+- [Signature 딥러닝·인공지능](https://fastcampus.co.kr/data_online_signature) @ Fast campus
 <!--- [딥러닝을 활용한 의료 영상 처리 & 모델 개발](https://fastcampus.co.kr/data_online_medicalai) @ Fastcampus -->
 --------------------------------------------------------------------------------------------------------------------
 ### 🪪 License
