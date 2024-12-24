@@ -48,9 +48,9 @@ Currently, I`m interested in developing artificial intelligence that uses AI to 
 <!--- [딥러닝을 활용한 의료 영상 처리 & 모델 개발](https://fastcampus.co.kr/data_online_medicalai) @ Fastcampus -->
 
 ### 🪪 License
-- TOEIC (2025.)
+<!--- - TOEIC (2025.)
 - ADSP (2025.)
-- SQLD (2025.)
+- SQLD (2025.) -->
   
 <!--- ### Work experience 👔
 | Job Position                  | Company                    | Field                         | Work Period       |
