@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=𝓗𝓮𝓵𝓵𝓸!&fontSize=90&desc=𝓘`𝓶%20𝓙𝓸𝓸𝓷𝓨𝓮𝓸𝓷𝓰%20𝓚𝓲𝓶&descSize=20&fontAlignY=40)
 
+<a href="mailto:jykim.personal@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+
+<a href="https://jun0604.github.io" target="_blank">
+<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 In the past, as a young man, I participated in campaigns and volunteer activities \
 to solve social problems in various fields ( Children / Youth / Disabled person / Environment / Gender / Suffrage etc.) \
 **Currently,** I`m interested in developing artificial intelligence that uses AI to diagnose and predict medical care
@@ -20,17 +28,6 @@ to solve social problems in various fields ( Children / Youth / Disabled person 
 ### 🔥 Ongoing
 - [Online] [딥러닝·인공지능 Signature](https://fastcampus.co.kr/data_online_signature) @ fast campus
 - [License] TOEIC test 준비
---------------------------------------------------------------------------------------------------------------------
-### ✉️ Contact to me
-
-<a href="mailto:jykim.personal@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
-
-<a href="mailto:jykim.personal@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 
 <!---
 ### 📖 Experience
