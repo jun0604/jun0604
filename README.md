@@ -37,28 +37,17 @@ Currently, I`m interested in developing artificial intelligence that uses AI to 
 - ✅ 봉사동아리 선문대학YMCA 회장,총무,복지부장
 - ✅ 대학YMCA전국연맹 부원
 --------------------------------------------------------------------------------------------------------------------
-### 🐾 Projects
-<!--- ### Work experience 👔
-| Job Position                  | Company                    | Field                         | Work Period       |
-| ----------------------------- | -------------------------- | ----------------------------- | ----------------- |
-| **Head of AI Transformation** | **Social Discovery Group** | **LLM, Conversational AI**    | **2024-05 — now** |
-| Research Scientist Lead       | SberDevices                | LLM, GigaChat                 | 2023-04 — 2024-05 |
-| NLP Team Lead                 | SberDevices                | Search, Information Retrieval | 2022-10 — 2023-04 |
-| NLP Tech Lead                 | Sber AI Lab                | NLP, MLOps, Mentoring         | 2021-05 — 2022-10 |
-| Senior NLP Engineer           | Tinkoff AI Lab             | Virtual Assistant "Oleg"      | 2021-02 — 2021-04 |
-| Middle NLP Engineer           | MTS AI Lab                 | NER with Pseudo-Labeling      | 2020-05 — 2021-02 |
-| Junior Data Scientist         | Sberbank                   | ML with Tabular Data, CV      | 2018-07 — 2020-05 |
--->
---------------------------------------------------------------------------------------------------------------------
 ### 🏆 Achievements
 - ✅ 선문대학교 총동아리연합회 봉사부문 우수동아리 (선문대학YMCA)
 - ✅ 선문대학교 ESG사회공헌센터 봉사활동 우수사례 공모전 장려상 (선문대학YMCA)
+--------------------------------------------------------------------------------------------------------------------
+### 🐾 Projects
 --------------------------------------------------------------------------------------------------------------------
 ### 📃 Paper
 --------------------------------------------------------------------------------------------------------------------
 ### 📜 Certificates
 - ✅ [OFFLINE] 빅데이터 분석을 활용한 데이터 마케팅 전문가 양성과정 @High media academy
-- 🔛 [ONLINE] [Signature 딥러닝·인공지능](https://fastcampus.co.kr/data_online_signature) @ Fast campus
+- 🔥 [ONLINE] [Signature 딥러닝·인공지능](https://fastcampus.co.kr/data_online_signature) @ Fast campus
 <!--- [딥러닝을 활용한 의료 영상 처리 & 모델 개발](https://fastcampus.co.kr/data_online_medicalai) @ Fastcampus -->
 --------------------------------------------------------------------------------------------------------------------
 ### 🪪 License
