@@ -33,8 +33,8 @@ Currently, I`m interested in developing artificial intelligence that uses AI to 
 - ✅ 축구동아리 OMGEA 부원
 - ✅ 학술동아리 KBUG(Korea Bluej Users Group) 부원 
 - ✅ 광고기획동아리 AD RED 부원
-- ✅ 축구동아리 SCOOP 부회장,총무
-- ✅ 봉사동아리 선문대학YMCA 회장,총무,복지부장
+- ✅ 축구동아리 SCOOP 부회장/총무
+- ✅ 봉사동아리 선문대학YMCA 회장/총무/복지부장
 - ✅ 대학YMCA전국연맹 부원
 --------------------------------------------------------------------------------------------------------------------
 ### 🏆 Achievements
