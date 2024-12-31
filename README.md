@@ -5,9 +5,8 @@ to solve social problems in various fields (children/youth, environment, suffrag
 Currently, I`m interested in developing artificial intelligence that uses AI to diagnose and predict medical care
 
 🧑🏻‍💻 **Research Interests** : Deep Learning, Machine Learning, Computer Vison, Image processing, Brain Engineering \
-✉️ **How to contact me** : [![Gmail Badge](https://img.shields.io/badge/-jykim.personal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jykim.personal@gmail.com)](mailto:jykim.personal@gmail.com)
+✉️ **How to contact me** : jykim.personal@gmail.com
 <!--- 🔍 **Learn more about me** : -->
-
 --------------------------------------------------------------------------------------------------------------------
 ### 🎓 Education
 - **[Bachelor's Degree]** Sunmoon University of Media Communication (2015 - 2021) \
@@ -19,11 +18,6 @@ Currently, I`m interested in developing artificial intelligence that uses AI to 
 - Chungcheongnam-do Public Interest Activity Support Center (2021.03 - 2022.02)
 <!--- [MMC Lab](https://mmc.hallym.ac.kr/?page_id=3780) Undergraduate Research Student (2025.03 - present) -->
 --------------------------------------------------------------------------------------------------------------------
-### 📖 Ongoing
-- [Online Lecture] [Signature 딥러닝·인공지능](https://fastcampus.co.kr/data_online_signature) @ Fast campus
-- [License] TOEIC test 준비
---------------------------------------------------------------------------------------------------------------------
-<!---
 ### 📖 Experience
 - ✅ 대학YMCA전국연맹 한일교류행사 운영 (한국-일본 대학생 문화교류) 
 - ✅ 한국환경공단 그린캠퍼스 친환경동아리 지원사업 (해양쓰레기 인식 개선)
@@ -50,11 +44,12 @@ Currently, I`m interested in developing artificial intelligence that uses AI to 
 --------------------------------------------------------------------------------------------------------------------
 ### 🐾 Projects
 --------------------------------------------------------------------------------------------------------------------
-### 📃 Paper
+### 📃 Publication
 --------------------------------------------------------------------------------------------------------------------
 ### 📜 Certificates
 - ✅ [OFFLINE] 빅데이터 분석을 활용한 데이터 마케팅 전문가 양성과정 @High media academy
-<!--- [딥러닝을 활용한 의료 영상 처리 & 모델 개발](https://fastcampus.co.kr/data_online_medicalai) @ Fastcampus 
+- 🔥 [ONLINE] [딥러닝·인공지능 Signature](https://fastcampus.co.kr/data_online_signature) @ fast campus
+<!--- 🔥 [ONLINE] [딥러닝을 활용한 의료 영상 처리 & 모델 개발](https://fastcampus.co.kr/data_online_medicalai) @ fast campus -->
 --------------------------------------------------------------------------------------------------------------------
 ### 🪪 License
 <!--- - TOEIC (2025.)
