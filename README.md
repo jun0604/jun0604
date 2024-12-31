@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=𝓗𝓮𝓵𝓵𝓸!&fontSize=90&desc=𝓘`𝓶%20𝓙𝓸𝓸𝓷𝓨𝓮𝓸𝓷𝓰%20𝓚𝓲𝓶&descSize=20&fontAlignY=40)
 
-### Hi, my name is JUN YEONG KIM 👋
 In the past, as a young man, I participated in campaigns and volunteer activities \
 to solve social problems in various fields (children/youth, environment, suffrage, etc.) \
 Currently, I`m interested in developing artificial intelligence that uses AI to diagnose and predict medical care
@@ -24,10 +23,6 @@ Currently, I`m interested in developing artificial intelligence that uses AI to 
 - [Online Lecture] [Signature 딥러닝·인공지능](https://fastcampus.co.kr/data_online_signature) @ Fast campus
 - [License] TOEIC test 준비
 --------------------------------------------------------------------------------------------------------------------
-
-### 🚪 방문자
-<img src="https://profile-counter.glitch.me/jun0604/count.svg" />
-
 <!---
 ### 📖 Experience
 - ✅ 대학YMCA전국연맹 한일교류행사 운영 (한국-일본 대학생 문화교류) 
