@@ -28,7 +28,7 @@ to solve social problems in various fields ( Children / Youth / Disabled person 
 <!--- [MMC Lab](https://mmc.hallym.ac.kr/?page_id=3780) Undergraduate Research Student (2025.03 - present) -->
 --------------------------------------------------------------------------------------------------------------------
 ### 🔥 Ongoing
-- [온라인강의] [딥러닝·인공지능 Signature](https://fastcampus.co.kr/data_online_signature) 
+- [온라인강의] [딥러닝·인공지능 Signature](https://fastcampus.co.kr/data_online_signature)
 - [자격증] TOEIC test 준비
 
 <!---
