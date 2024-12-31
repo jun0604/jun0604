@@ -1,10 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### Hi, my name is JUN YEONG KIM 👋
 In the past, as a young man, I participated in campaigns and volunteer activities \
 to solve social problems in various fields (children/youth, environment, suffrage, etc.) \
 Currently, I`m interested in developing artificial intelligence that uses AI to diagnose and predict medical care
 
 🧑🏻‍💻 **Research Interests** : Deep Learning, Machine Learning, Computer Vison, Image processing, Brain Engineering \
-📝 **How to contact me** : jykim.personal@gmail.com
+✉️ **How to contact me** : jykim.personal@gmail.com
+<!--- 🔍 **Learn more about me** : -->
 
 --------------------------------------------------------------------------------------------------------------------
 ### 🎓 Education
@@ -17,6 +20,15 @@ Currently, I`m interested in developing artificial intelligence that uses AI to 
 - Chungcheongnam-do Public Interest Activity Support Center (2021.03 - 2022.02)
 <!--- [MMC Lab](https://mmc.hallym.ac.kr/?page_id=3780) Undergraduate Research Student (2025.03 - present) -->
 --------------------------------------------------------------------------------------------------------------------
+### 📖 Ongoing
+- [Online Lecture] [Signature 딥러닝·인공지능](https://fastcampus.co.kr/data_online_signature) @ Fast campus
+- [License] TOEIC test 준비
+--------------------------------------------------------------------------------------------------------------------
+
+### 🚪 방문자
+<img src="https://profile-counter.glitch.me/jun0604/count.svg" />
+
+<!---
 ### 📖 Experience
 - ✅ 대학YMCA전국연맹 한일교류행사 운영 (한국-일본 대학생 문화교류) 
 - ✅ 한국환경공단 그린캠퍼스 친환경동아리 지원사업 (해양쓰레기 인식 개선)
@@ -47,8 +59,7 @@ Currently, I`m interested in developing artificial intelligence that uses AI to 
 --------------------------------------------------------------------------------------------------------------------
 ### 📜 Certificates
 - ✅ [OFFLINE] 빅데이터 분석을 활용한 데이터 마케팅 전문가 양성과정 @High media academy
-- 🔥 [ONLINE] [Signature 딥러닝·인공지능](https://fastcampus.co.kr/data_online_signature) @ Fast campus
-<!--- [딥러닝을 활용한 의료 영상 처리 & 모델 개발](https://fastcampus.co.kr/data_online_medicalai) @ Fastcampus -->
+<!--- [딥러닝을 활용한 의료 영상 처리 & 모델 개발](https://fastcampus.co.kr/data_online_medicalai) @ Fastcampus 
 --------------------------------------------------------------------------------------------------------------------
 ### 🪪 License
 <!--- - TOEIC (2025.)
