@@ -14,8 +14,7 @@ In the past, as a young man, I participated in campaigns and volunteer activitie
 to solve social problems in various fields ( Children / Youth / Disabled person / Environment / Gender / Suffrage etc.) \
 **Currently,** I`m interested in developing artificial intelligence that uses AI to diagnose and predict medical care
 
-🧑🏻‍💻 **Research Interests** : Deep Learning, Machine Learning, Computer Vison, Image processing, Brain Engineering \
-<!--- 🔍 **Learn more about me** : -->
+🧑🏻‍💻 **Research Interests** : Deep Learning, Machine Learning, Computer Vison, Image processing, Medical AI, Brain Engineering
 --------------------------------------------------------------------------------------------------------------------
 ### 🎓 Education
 - **[Bachelor's Degree]** Sunmoon University of Media Communication (2015 - 2021) \
