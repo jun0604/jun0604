@@ -5,7 +5,7 @@ to solve social problems in various fields (children/youth, environment, suffrag
 Currently, I`m interested in developing artificial intelligence that uses AI to diagnose and predict medical care
 
 🧑🏻‍💻 **Research Interests** : Deep Learning, Machine Learning, Computer Vison, Image processing, Brain Engineering \
-✉️ **How to contact me** : jykim.personal@gmail.com
+✉️ **How to contact me** : [![Gmail Badge](https://img.shields.io/badge/-jykim.personal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jykim.personal@gmail.com)](mailto:jykim.personal@gmail.com)
 <!--- 🔍 **Learn more about me** : -->
 
 --------------------------------------------------------------------------------------------------------------------
