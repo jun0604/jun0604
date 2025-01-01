@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=𝓗𝓮𝓵𝓵𝓸!&fontSize=90&desc=𝓘`𝓶%20𝓙𝓸𝓸𝓷𝓨𝓮𝓸𝓷𝓰%20𝓚𝓲𝓶&descSize=20&fontAlignY=40)
 
-<a href="https://jun0604.github.io" target="_blank">
-<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 <a href="mailto:jykim.personal@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
