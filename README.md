@@ -1,11 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=𝓗𝓮𝓵𝓵𝓸!&fontSize=90&desc=𝓘`𝓶%20𝓙𝓸𝓸𝓷𝓨𝓮𝓸𝓷𝓰%20𝓚𝓲𝓶&descSize=20&fontAlignY=40)
 
-<a href="mailto:jykim.personal@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/jun_develop/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
+### 👋 Contact 👋
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jykim.personal@gmail.com)](mailto:jykim.personal@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jun-developer/)](https://www.linkedin.com/in/jun-developer/)
+[![instagram Badge](https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jun_develop/)](https://www.instagram.com/jun_develop/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100029899050662/)](https://www.facebook.com/profile.php?id=100029899050662)
 
 In the past, as a young man, I participated in campaigns and volunteer activities \
 to solve social problems in various fields ( Children / Youth / Disabled person / Environment / Gender / Suffrage etc.) \
@@ -24,11 +23,6 @@ to solve social problems in various fields ( Children / Youth / Disabled person 
 - Chungcheongnam-do Public Interest Activity Support Center (2021.03 - 2022.02)
 <!--- [MMC Lab](https://mmc.hallym.ac.kr/?page_id=3780) Undergraduate Research Student (2025.03 - present) -->
 --------------------------------------------------------------------------------------------------------------------
-### 🔥 Ongoing
-- [Online Lecture] [딥러닝·인공지능 Signature](https://fastcampus.co.kr/data_online_signature)
-- [License] TOEIC test 준비
-
-<!---
 ### 📖 Experience
 - ✅ 대학YMCA전국연맹 한일교류행사 운영 (한국-일본 대학생 문화교류) 
 - ✅ 한국환경공단 그린캠퍼스 친환경동아리 지원사업 (해양쓰레기 인식 개선)
@@ -60,7 +54,7 @@ to solve social problems in various fields ( Children / Youth / Disabled person 
 ### 📜 Certificates
 - ✅ [Offline] 빅데이터 분석을 활용한 데이터 마케팅 전문가 양성과정 @High media academy
 - 🔥 [Online] [딥러닝·인공지능 Signature](https://fastcampus.co.kr/data_online_signature) @ fast campus
-- 🔥 [ONLINE] [딥러닝을 활용한 의료 영상 처리 & 모델 개발](https://fastcampus.co.kr/data_online_medicalai) @ fast campus 
+<!---- 🔥 [ONLINE] [딥러닝을 활용한 의료 영상 처리 & 모델 개발](https://fastcampus.co.kr/data_online_medicalai) @ fast campus -->
 --------------------------------------------------------------------------------------------------------------------
 ### 🪪 License
 <!--- - TOEIC (2025.)
