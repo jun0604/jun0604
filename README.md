@@ -10,18 +10,16 @@ In the past, as a young man, I participated in campaigns and volunteer activitie
 to solve social problems in various fields ( Children / Youth / Disabled person / Environment / Gender / Suffrage etc.) \
 **Currently,** I`m interested in developing artificial intelligence that uses AI to diagnose and predict medical care
 
-🧑🏻‍💻 **Research Interests :** Deep Learning, Machine Learning, Computer Vison, Image processing, Medical AI, Brain Engineering
+🧑🏻‍💻 **Research Interests :** Deep Learning, Machine Learning, Computer Vison, Image processing, Medical AI
 
 --------------------------------------------------------------------------------------------------------------------
 ### 🎓 Education
-- **[Bachelor's Degree]** Sunmoon University of Media Communication (2015 - 2021) \
-  (Micro Degree of Advertising and Public Relations)
-<!--- **[Bachelor's Degree]** Hallym University of Artificial Intelligence Convergence (2025 - present) \
-  (Micro Degree of AI Medical Convergence) -->
+-  **B.A.** in Media and Comuunication, Advertising & Public Relations Major, Sunmmon University, Asan, Korea (2015.03~2021.02)
+<!----  **B.E.** in Artificial Intelligence Convergence, AI Medical Convergence Major, Hallym University, Chuncheon, Korea (2025.03~present) -->
 --------------------------------------------------------------------------------------------------------------------
 ### 👔 Career
-- Chungcheongnam-do Public Interest Activity Support Center (2021.03 - 2022.02)
-<!--- [MMC Lab](https://mmc.hallym.ac.kr/?page_id=3780) Undergraduate Research Student (2025.03 - present) -->
+- Chungcheongnam-do Public Interest Activity Support Center (2021.03~2022.02)
+<!---- [MMC Lab](https://mmc.hallym.ac.kr/?page_id=3780) Undergraduate Research Student (2025.03~present) -->
 --------------------------------------------------------------------------------------------------------------------
 ### 📖 Experience
 - ✅ 대학YMCA전국연맹 한일교류행사 운영 (한국-일본 대학생 문화교류) 
@@ -52,8 +50,10 @@ to solve social problems in various fields ( Children / Youth / Disabled person 
 ### 📃 Publication
 --------------------------------------------------------------------------------------------------------------------
 ### 📜 Certificates
-- ✅ [Offline] 빅데이터 분석을 활용한 데이터 마케팅 전문가 양성과정 @High media academy
+- ✅ [Offline] 빅데이터 분석을 활용한 데이터 마케팅 전문가 양성과정 @ High media academy
 - 🔥 [Online] [딥러닝·인공지능 Signature](https://fastcampus.co.kr/data_online_signature) @ fast campus
+- 🔥 [Online] [2025 파이썬 트랙](https://dacon.io/hackathon) @ DAKON
+<!---- 🔥 [Online] [2025 머신러닝 입문/기초/심화 트랙](https://dacon.io/hackathon) @ DAKON -->
 <!---- 🔥 [ONLINE] [딥러닝을 활용한 의료 영상 처리 & 모델 개발](https://fastcampus.co.kr/data_online_medicalai) @ fast campus -->
 --------------------------------------------------------------------------------------------------------------------
 ### 🪪 License
