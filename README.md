@@ -14,8 +14,8 @@ to solve social problems in various fields ( Children / Youth / Disabled person 
 
 --------------------------------------------------------------------------------------------------------------------
 ### 🎓 Education
--  **B.A.** in Media and Comuunication, Advertising & Public Relations Major, Sunmmon University, Asan, Korea (2015.03~2021.02)
-<!----  **B.E.** in Artificial Intelligence Convergence, AI Medical Convergence Major, Hallym University, Chuncheon, Korea (2025.03~present) -->
+- **B.A.** in Media and Comuunication, Advertising & Public Relations Major, Sunmmon University, Asan, Korea (2015.03~2021.02)
+- **B.E.** in Artificial Intelligence Convergence, AI Medical Convergence Major, Hallym University, Chuncheon, Korea (2025.03~present)
 --------------------------------------------------------------------------------------------------------------------
 ### 👔 Career
 - Chungcheongnam-do Public Interest Activity Support Center (2021.03~2022.02)
@@ -50,11 +50,8 @@ to solve social problems in various fields ( Children / Youth / Disabled person 
 ### 📃 Publication
 --------------------------------------------------------------------------------------------------------------------
 ### 📜 Certificates
-- [Offline] 빅데이터 분석을 활용한 데이터 마케팅 전문가 양성과정 @ High media academy
-- [Online] [딥러닝·인공지능 Signature](https://fastcampus.co.kr/data_online_signature) @ fast campus
-- [Online] [2025 파이썬 트랙](https://dacon.io/hackathon) @ DAKON
-<!---- 🔥 [Online] [2025 머신러닝 입문/기초/심화 트랙](https://dacon.io/hackathon) @ DAKON -->
-<!---- 🔥 [ONLINE] [딥러닝을 활용한 의료 영상 처리 & 모델 개발](https://fastcampus.co.kr/data_online_medicalai) @ fast campus -->
+- [청년취업아카데미] 빅데이터 분석을 활용한 데이터 마케팅 전문가 양성과정
+- [K-디지털 기초역량훈련] AI 기술을 활용한 의료 데이터 분석과 바이오 진단 (present)
 --------------------------------------------------------------------------------------------------------------------
 ### 🪪 License
 <!--- - TOEIC (2025.)
