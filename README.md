@@ -19,7 +19,7 @@ to solve social problems in various fields ( Children / Youth / Disabled person 
 --------------------------------------------------------------------------------------------------------------------
 ### 👔 Career
 - Chungcheongnam-do Public Interest Activity Support Center (2021.03~2022.02)
-- [MMC Lab](https://mmc.hallym.ac.kr/?page_id=3780) Undergraduate Research Student (2025.03~present)
+- [MMC Lab](https://mmc.hallym.ac.kr/) Undergraduate Research Student (2025.03~present)
 --------------------------------------------------------------------------------------------------------------------
 ### 📖 Experience
 - 대학YMCA전국연맹 한일교류행사 운영 (한국-일본 대학생 문화교류) 
