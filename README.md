@@ -15,7 +15,7 @@ to solve social problems in various fields ( Children / Youth / Disabled person 
 --------------------------------------------------------------------------------------------------------------------
 ### 🎓 Education
 - **B.A.** in Media and Comuunication, Advertising & Public Relations Major, Sunmmon University, Asan, Korea (2015.03~2021.02)
-- **B.E.** in Artificial Intelligence Convergence, AI Medical Convergence Major, Hallym University, Chuncheon, Korea (2025.03~present)
+- Artificial Intelligence Convergence, AI Medical Convergence Major, Hallym University, Chuncheon, Korea (2025.03~present)
 --------------------------------------------------------------------------------------------------------------------
 ### 👔 Career
 - Chungcheongnam-do Public Interest Activity Support Center (2021.03~2022.02)
