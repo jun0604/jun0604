@@ -34,7 +34,7 @@ to solve social problems in various fields ( Children / Youth / Disabled person 
 --------------------------------------------------------------------------------------------------------------------
 ### 🚀 Club
 - 선문대학교 컴퓨터공학과 학생회 부원
-- 축구동아리 OMGEA 부원
+- 축구동아리 OMGEA, SCOOP 부원
 - 학술동아리 KBUG(Korea Bluej Users Group) 부원 
 - 광고기획동아리 AD RED 부원
 - 축구동아리 SCOOP 부회장/총무
