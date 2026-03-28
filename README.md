@@ -55,7 +55,7 @@ to solve social problems in various fields ( Children / Youth / Disabled person 
 | 2025 인공지능융합학부 학술제 | X-ray 영상 무결성 보존을 위한 암호화된 환자 정보 은닉 기법 연구 | 한림대학교 의료인공지능 특화 융합인재 양성 사업단 | 2025.10~2025.11 |
 --------------------------------------------------------------------------------------------------------------------
 ### 📃 Publication
-- Yu, B. H., Kim, J. Y., Kim, J. G., Won, D. O., & Kim, G. T.(2026).Classification of Steady-State Somatosensory Evoked Potential using Riemannian Geometry for Subject-Independent Brain-Computer Interfaces. Proceedings of the 2026 Spring Conference of the Korean Society for Precision Engineering (AS2026-0167).
+- 유부현, 김준영, 김진교, 원동옥, 김근태, “사용자-독립적 뇌-컴퓨터 인터페이스를 위한 리만 기하학 기반의 정상-상태 체성감각 유발 전위 분류”, 한국정밀공학회 2026년도 춘계학술대회 논문집, AS2026-0167, 2026.
 --------------------------------------------------------------------------------------------------------------------
 ### 📜 Certificates
 - [청년취업아카데미] 빅데이터 분석을 활용한 데이터 마케팅 전문가 양성과정
