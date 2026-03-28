@@ -3,7 +3,6 @@
 ### 👋 Contact 👋
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jykim.personal@gmail.com)](mailto:jykim.personal@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jun-developer/)](https://www.linkedin.com/in/jun-developer/)
-[![instagram Badge](https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jun_develop/)](https://www.instagram.com/jun_develop/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100029899050662/)](https://www.facebook.com/profile.php?id=100029899050662)
 
 In the past, as a young man, I participated in campaigns and volunteer activities \
