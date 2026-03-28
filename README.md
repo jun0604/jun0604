@@ -8,6 +8,7 @@
 
 In the past, as a young man, I participated in campaigns and volunteer activities \
 to solve social problems in various fields ( Children / Youth / Disabled person / Environment / Gender / Suffrage etc.) \
+My primary research interest lies in developing AI for medical diagnosis and predictive healthcare. \
 **Currently,** I am focusing on analyzing Motor Imagery (MI) and SSVEP-based BCI signal data to develop control systems for rehabilitative assistive devices.
 
 🧑🏻‍💻 **Research Interests :** Deep Learning, Machine Learning, Medical AI, Motor Imagery (MI), Steady-State Somatosensory Evoked Potential(SSSEP), Brain-Computer Interface(BCI), Rehabilitation
