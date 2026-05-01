@@ -1,4 +1,4 @@
-[header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=𝓗𝓮𝓵𝓵𝓸!&fontSize=90&desc=𝓘`𝓶%20𝓙𝓸𝓸𝓷𝓨𝓮𝓸𝓷𝓰%20𝓚𝓲𝓶&descSize=20&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=𝓗𝓮𝓵𝓵𝓸!&fontSize=90&desc=𝓘`𝓶%20𝓙𝓸𝓸𝓷𝓨𝓮𝓸𝓷𝓰%20𝓚𝓲𝓶&descSize=20&fontAlignY=40)
 
 ### 👋 Contact 👋
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jykim.personal@gmail.com)](mailto:jykim.personal@gmail.com)
