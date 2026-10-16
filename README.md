@@ -63,17 +63,17 @@ My primary research interest lies in developing AI for medical diagnosis and pre
 | 2025년 하반기 도제식 학부 연구생 프로그램 | 전통적인 워터마크 방식 및 가역 신경망 기반의 딥러닝 구조를 바탕으로 의료이미지 무결성 보장을 위한 새로운 융합모델 구축 | 한림대학교 SW중심대학사업단 | 2025.09~2025.12 |
 --------------------------------------------------------------------------------------------------------------------
 ### 📃 Domestic Conferences
-- **김준영**, 김근태, “무릎 통증 환자의 하지 동작 상상 시 통증 위치에 따른 ERD 공간 패턴 변화 및 EEG 채널 선택에 대한 연구,” 한국뇌공학회 하계학술대회, 2026.
-- 유부현, **김준영**, 이송주, 김근태, “고주파 SSSEP 및 동작상상 기반의 Hybrid BCI를 위한 리만 기하학 기반의 특징 융합 연구,” 한국뇌공학회 하계학술대회, 2026.
-- 이호건, **김준영**, 김근태, “무릎 통증 환자 대상 하지 동작 상상 분류를 위한 시공간 최적화 및 공간 특징 확장 프레임워크,” 대한전자공학회 하계종합학술대회, 2026.
-- 정현호, 유부현, **김준영**, 김근태, 정인철, “설명 가능한 인공지능 기반 팔 위치 변화에 강건한 sEMG 특징 분석,” 대한전자공학회 하계종합학술대회, 2026.
-- **김준영**, 유부현, 김진교, 원동옥, 김근태, “정상-상태 체성감각 유발 전위 기반의 뇌-컴퓨터 인터페이스를 위한 리만 기하학 기반의 분류 연구,” 한국정밀공학회 춘계학술대회, 2026.
-- 유부현, **김준영**, 김진교, 원동옥, 김근태, “사용자-독립적 뇌-컴퓨터 인터페이스를 위한 리만 기하학 기반의 분류 연구,” 한국정밀공학회 춘계학술대회, 2026.
-- 김진교, **김준영**, 유부현, 원동옥, 김근태, “동작 상상 기반의 뇌-컴퓨터 인터페이스를 위한 리만 기하학 기반의 분류 프레임워크,” 한국정밀공학회 춘계학술대회, 2026.
+- ***김준영***, 김근태, “무릎 통증 환자의 하지 동작 상상 시 통증 위치에 따른 ERD 공간 패턴 변화 및 EEG 채널 선택에 대한 연구,” 한국뇌공학회 하계학술대회, 2026.
+- 유부현, ***김준영***, 이송주, 김근태, “고주파 SSSEP 및 동작상상 기반의 Hybrid BCI를 위한 리만 기하학 기반의 특징 융합 연구,” 한국뇌공학회 하계학술대회, 2026.
+- 이호건, ***김준영***, 김근태, “무릎 통증 환자 대상 하지 동작 상상 분류를 위한 시공간 최적화 및 공간 특징 확장 프레임워크,” 대한전자공학회 하계종합학술대회, 2026.
+- 정현호, 유부현, ***김준영***, 김근태, 정인철, “설명 가능한 인공지능 기반 팔 위치 변화에 강건한 sEMG 특징 분석,” 대한전자공학회 하계종합학술대회, 2026.
+- ***김준영***, 유부현, 김진교, 원동옥, 김근태, “정상-상태 체성감각 유발 전위 기반의 뇌-컴퓨터 인터페이스를 위한 리만 기하학 기반의 분류 연구,” 한국정밀공학회 춘계학술대회, 2026.
+- 유부현, ***김준영***, 김진교, 원동옥, 김근태, “사용자-독립적 뇌-컴퓨터 인터페이스를 위한 리만 기하학 기반의 분류 연구,” 한국정밀공학회 춘계학술대회, 2026.
+- 김진교, ***김준영***, 유부현, 원동옥, 김근태, “동작 상상 기반의 뇌-컴퓨터 인터페이스를 위한 리만 기하학 기반의 분류 프레임워크,” 한국정밀공학회 춘계학술대회, 2026.
 --------------------------------------------------------------------------------------------------------------------
 ### 📃 International Conferences
-- Lee, H. G., **Kim, J. K.**, Yu, B. H., and Kim, K. T., “Deep Learning-Based Mild Cognitive Impairment Classification Using Mouse Trajectories of computerized Trail Making Test,” 13th Asian-Pacific Conference on Medical and Biological Engineering, 2026
-- Kim, J. K., Lee, K. E., **Kim, J. K.**, and Kim, K. T., “Study on Improving Classification Accuracy of Patients with Mild Cognitive Impairment and Dementia Using Verbal, Acoustic, and Pragmatic Indicators,” 13th Asian-Pacific Conference on Medical and Biological Engineering, 2026
+- Lee, H. G., ***Kim, J. K.***, Yu, B. H., and Kim, K. T., “Deep Learning-Based Mild Cognitive Impairment Classification Using Mouse Trajectories of computerized Trail Making Test,” 13th Asian-Pacific Conference on Medical and Biological Engineering, 2026
+- Kim, J. K., Lee, K. E., ***Kim, J. K.***, and Kim, K. T., “Study on Improving Classification Accuracy of Patients with Mild Cognitive Impairment and Dementia Using Verbal, Acoustic, and Pragmatic Indicators,” 13th Asian-Pacific Conference on Medical and Biological Engineering, 2026
 --------------------------------------------------------------------------------------------------------------------
 ### 📃 International Journals
 
