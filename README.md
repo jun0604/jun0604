@@ -72,8 +72,8 @@ My primary research interest lies in developing AI for medical diagnosis and pre
 - 김진교, ***김준영***, 유부현, 원동옥, 김근태, “동작 상상 기반의 뇌-컴퓨터 인터페이스를 위한 리만 기하학 기반의 분류 프레임워크,” 한국정밀공학회 춘계학술대회, 2026.
 --------------------------------------------------------------------------------------------------------------------
 ### 📃 International Conferences
-- Lee, H. G., ***Kim, J. K.***, Yu, B. H., and Kim, K. T., “Deep Learning-Based Mild Cognitive Impairment Classification Using Mouse Trajectories of computerized Trail Making Test,” 13th Asian-Pacific Conference on Medical and Biological Engineering, 2026
-- Kim, J. K., Lee, K. E., ***Kim, J. K.***, and Kim, K. T., “Study on Improving Classification Accuracy of Patients with Mild Cognitive Impairment and Dementia Using Verbal, Acoustic, and Pragmatic Indicators,” 13th Asian-Pacific Conference on Medical and Biological Engineering, 2026
+- Lee, H. G., ***Kim, J. Y.***, Yu, B. H., and Kim, K. T., “Deep Learning-Based Mild Cognitive Impairment Classification Using Mouse Trajectories of computerized Trail Making Test,” 13th Asian-Pacific Conference on Medical and Biological Engineering, 2026
+- Kim, J. K., Lee, K. E., ***Kim, J. Y.***, and Kim, K. T., “Study on Improving Classification Accuracy of Patients with Mild Cognitive Impairment and Dementia Using Verbal, Acoustic, and Pragmatic Indicators,” 13th Asian-Pacific Conference on Medical and Biological Engineering, 2026
 --------------------------------------------------------------------------------------------------------------------
 ### 📃 International Journals
 
